@@ -2,7 +2,7 @@
 <h3 align="center">I aim to create auto-mation tools for social media apps using python.</h3>
 <p img align="right"> <alt="Coding" width="500" src="https://gifer.com/en/4xU4">
 
-- 🟢 I’m currently working on **Cyanide-Tiktok-MultiTool**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
